@@ -6,15 +6,6 @@ Este repositório contém uma aplicação web com Node.js e React. O usuário te
 
 Pré-requisito: O Node.js é necessário para rodar o backend da aplicação e o npm, que já vem com o Node.js, é usado para gerenciar as dependências do projeto. Download: (https://nodejs.org/pt).
 
-**Execução do programa:**
-
-- **Passo 1:** Clone o diretório do projeto em sua máquina.
-- **Passo 2:** Abra o cmd no diretório clonado.
-- **Passo 3:** 
-
-  
-  
-
 **Testar programa:**
 
 - **Passo 1:** O jogador deve digitar seu nome e clicar no botão começar jogo.
